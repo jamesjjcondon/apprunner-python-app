@@ -1,0 +1,8 @@
+template-file-path: Pipeline_GitHub.json
+parameters:
+  BranchName: main
+  RepositoryName: apprunner-python-app
+  ECRRepoName: test-ecr-repo
+  GitHubOAuthToken: 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
+  RepoOwner: jamesjjcondon
+tags: {}
